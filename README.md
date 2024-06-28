@@ -37,6 +37,12 @@ git pull
 ```
 For each exercise we will provide two notebooks: one called `exercise_X.ipynb` and one `exercise_X_solution.ipynb`. Please do not modify the "solution" files so as to not run into merge conflicts.
 
+# Workflow
+We will start doing the notebooks in the Gammapy folder, labelled 1 to 5. We will walk you through 1-3 so that you can get familiar with the framework. Notebooks 4 and 5 are an exercise.
+
+After that we will move to the Gamera section. We will walk you through exercise 1 and leave 2-4 to you.
+
+Finally we will combine both sections and tackle the Gammapy notebooks 6 and 7, where Gamera is used to fit a model to the joint Crab datasets.
 
 
 
